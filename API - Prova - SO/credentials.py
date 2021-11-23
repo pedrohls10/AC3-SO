@@ -1,0 +1,1 @@
+credPedro = ['localhost', 'root', 'Pedro2212', 'dadosTorcida']
